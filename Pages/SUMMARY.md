@@ -1,3 +1,3 @@
 # Table of contents
 
-* [ASTLIBRA Revision](README.md)
+* [神之天平](README.md)
