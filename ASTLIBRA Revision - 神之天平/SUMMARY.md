@@ -1,3 +1,3 @@
 # Table of contents
 
-* [神之天平](README.md)
+* [本文目的](README.md)
